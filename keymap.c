@@ -331,7 +331,7 @@ void oled_task_user(void) {
         render_status(); // Renders the current keyboard state (layer, lock, caps, scroll, etc)
     } else {
 //  render_kyria_logo();
-    render_luna(32,64);
+    render_luna(0,0);
     }
 }
 #endif
