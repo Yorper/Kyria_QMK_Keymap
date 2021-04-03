@@ -1,4 +1,6 @@
- /* Copyright 2019 Thomas Baart <thomas@splitkb.com>
+/* Copyright 2021 https://github.com/Yorper
+ * Copyright 2021 https://github.com/HellSingCoder
+ * Copyright 2019 Thomas Baart <thomas@splitkb.com>
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
